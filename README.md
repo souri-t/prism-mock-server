@@ -22,7 +22,7 @@
 ### サーバーの起動
 
 ```bash
-docker-compose up
+docker-compose up -d
 ```
 
 サーバーは `http://localhost:3080` でアクセス可能になります。
