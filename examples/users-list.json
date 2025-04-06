@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "山田太郎",
+    "email": "yamada@example.com",
+    "age": 30,
+    "createdAt": "2025-01-15T09:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "佐藤花子",
+    "email": "sato@example.com",
+    "age": 25,
+    "createdAt": "2025-01-20T14:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "鈴木一郎",
+    "email": "suzuki@example.com",
+    "age": 35,
+    "createdAt": "2025-01-25T11:45:00.000Z"
+  }
+]
