@@ -25,7 +25,7 @@
 docker-compose up
 ```
 
-サーバーは `http://localhost:4010` でアクセス可能になります。
+サーバーは `http://localhost:3080` でアクセス可能になります。
 
 ### サーバーの停止
 
@@ -38,7 +38,7 @@ docker-compose down
 ### ユーザー一覧の取得
 
 ```
-GET http://localhost:4010/users
+GET http://localhost:3080/users
 ```
 
 #### レスポンス例
